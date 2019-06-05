@@ -48,16 +48,14 @@ body::before {
 body {
 background-color: rgba(0, 225, 0, 0.4); 
 }
-section {
-background-color: rgba(0, 225, 0, 0.8);
-}
+
 
 main {
-background-color: rgba(255, 255, 255, 0.5);
+background-color: rgba(255, 255, 255, 0.8);
 }
 
 section {
-background-color: rgba(0, 225, 0, 0.5);
+background-color: rgba(0, 225, 0, 0.8);
 }
 
 @media	screen and (min-width: 540px),
