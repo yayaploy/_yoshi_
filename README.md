@@ -53,7 +53,7 @@ background-color: rgba(0, 225, 0, 0.8);
 }
 
 main {
-background-color: rgba(255, 255, 255, 0.3);
+background-color: rgba(255, 255, 255, 0.5);
 }
 
 section {
@@ -91,7 +91,7 @@ screen and (orientation: landscape) {
 -->
 
 <main>
-  <span class="snow">
+<p>  <span class="blue">
 増子さま<br><br>
  
 添付は、大泉応援団の事を書いた拙文です。<br><br>
@@ -133,6 +133,7 @@ screen and (orientation: landscape) {
  
  
 　２０１９年・６月　吉田紀子<br>
+ </span></p>
   </main>
 
 
