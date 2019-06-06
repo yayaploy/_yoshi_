@@ -133,9 +133,9 @@ screen and (orientation: landscape) {
 　２０１９年・６月　吉田紀子<br>
  </span></p>
   </main>
-<a href="142.JPG" data-lightbox="abc"><img src="142.JPG" alt="サンプル画像" width="250" /></a>
-<a href="149.JPG" data-lightbox="abc"><img src="149.JPG" alt="サンプル画像" width="250" /></a>
-<a href="154.JPG" data-lightbox="abc"><img src="154.JPG" alt="サンプル画像" width="250" /></a>
+<a href="142.JPG" data-lightbox="abc"><img src="142.JPG" alt="サンプル画像" width="200" /></a>
+<a href="149.JPG" data-lightbox="abc"><img src="149.JPG" alt="サンプル画像" width="200" /></a>
+<a href="154.JPG" data-lightbox="abc"><img src="154.JPG" alt="サンプル画像" width="200" /></a>
 <br><br><br>
 
 <section>
@@ -181,7 +181,7 @@ screen and (orientation: landscape) {
 　だから、もしかしたらもっと武骨な言葉しか出てこないのかも。<br>
 　いや言葉すらなく、ただ涙しか出ないのかも。<br>
 　そんなことを思いつつ。<br>
-　　　　　　　　　最終話を前に　吉田紀子<br>
+　　　　　　　　　最終話を前に　吉田紀子<br><br>
 
 　あ。今また思い出しました。三年の秋、勝ち進んだ野球部の予選、応援に行ったわ。そうそう、急遽応援団、呼び出されて。で､堀越学園と闘ってコールド負けだったなあ。国立の方の球場だったような気がする。<br>
  
