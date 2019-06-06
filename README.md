@@ -133,6 +133,9 @@ screen and (orientation: landscape) {
 　２０１９年・６月　吉田紀子<br>
  </span></p>
   </main>
+<a href="142.JPG" data-lightbox="abc"><img src="142.JPG" alt="サンプル画像" width="300" /></a>
+<a href="149.JPG" data-lightbox="abc"><img src="149.JPG" alt="サンプル画像" width="300" /></a>
+<a href="154.JPG" data-lightbox="abc"><img src="154.JPG" alt="サンプル画像" width="300" /></a>
 <br><br><br>
 
 <section>
