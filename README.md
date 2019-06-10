@@ -188,6 +188,8 @@ screen and (orientation: landscape) {
  
   </span></p>
    </section>
+<br>
+<p><a href="https://torokoid.github.io/yoshi/"></a>ご本人からの原文をリンクしました。</p>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
