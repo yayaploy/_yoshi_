@@ -189,7 +189,7 @@ screen and (orientation: landscape) {
   </span></p>
    </section>
 <br>
-<p><a href="https://torokoid.github.io/yoshi/blob/master/あの頃%E3%80%82そしてカミングアウト.pdf"></a>ご本人からの原文(改行位置保持)</p>
+<p><a href="https://torokoid.github.io/yoshi/blob/master/あの頃。そしてカミングアウト.pdf"></a>ご本人からの原文(改行位置保持)</p>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
