@@ -192,7 +192,7 @@ screen and (orientation: landscape) {
 <br>
 <a href="https://torokoid.github.io/yoshi/blob/master/あの頃%E3%80%82そしてカミングアウト.pdf">ご本人からの原文リンク(改行位置保持)</a>
 -->
-
+<p><span class="white"><strong> <p><a href="http://norikoyoshida.jp" class="p">Profile<span><img src="https://torokoid.github.io/yoshi/20190622_001.png" alt="Profile"></span></a>クリックでProfileに飛びます。<br/>戻るにはブラウザの戻るボタンで！ </p></strong></span></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 <section><span class="blue">
